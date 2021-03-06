@@ -1,0 +1,16 @@
+{
+  "files.exclude": {
+    "rm_graphql_client\\pubspec.lock": true,
+    "rm_graphql_client\\CHANGELOG.md": true,
+    "rm_graphql_client\\analysis_options.yaml": true,
+    "rm_graphql_client\\.packages": true,
+    "rm_graphql_client\\.dart_tool": true,
+    "rm_flutter_app\\rm_flutter_app.iml": true,
+    "rm_flutter_app\\pubspec.lock": true,
+    "rm_flutter_app\\.packages": true,
+    "rm_flutter_app\\.metadata": true,
+    "rm_flutter_app\\windows": true,
+    "rm_flutter_app\\.idea": true,
+    "rm_flutter_app\\.dart_tool": true
+  }
+}
